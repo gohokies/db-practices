@@ -1,0 +1,1 @@
+docker run --rm -it --name pgsql1 -e POSTGRES_PASSWORD=SQLPassword -p 5432:5432 postgres
